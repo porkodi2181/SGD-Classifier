@@ -64,6 +64,7 @@ print("\nClassification Report:\n", report)
 
 
 ## Output:
+
 ![Screenshot 2025-04-06 134538](https://github.com/user-attachments/assets/d25a5b74-d1fe-40ed-875b-5b6d063677ab)
 
 
